@@ -1,5 +1,33 @@
-Jean Guiraud
 
-I am data engineer at Thales Alenia Space.
+# 👋 Hello, I'm Jean Guiraud 
 
-If you want to reach me, sent to **jean.gd@outlook.fr**
+Currently, I hold the position of **Data Engineer** at _Thales Alenia Space_, specializing in transforming raw data into meaningful information through methods of data analysis and management. 
+
+My role involves developing, constructing, testing, and maintaining data architectures, 
+
+## 📫 Get in Touch
+- Email at **jean.gd@outlook.fr**
+
+## 🧰 Skills
+### Programming Languages
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+- PHP
+
+### Frameworks
+- Angular
+- Flask
+- Django
+
+## 🎓 Education
+- Master in Information Technology Applied to Business Management (Data Engineering and Protection Track), Université Paul Sabatier, Toulouse III _(ongoing)_
+- Bachelor's Degree in Mathematics and Computer Science Applied to Business Management, Université Paul Sabatier, Toulouse III
+- First Year, Data Engineering Program, Telecom Saint-Etienne
+- University Technology Diploma in Computer Science, Université Paul Sabatier, Toulouse III
+
+## 💼 Work Experience
+- Data Engineer, Thales Alenia Space, 2021 - Present
+- Software Developer Intern, Tridôme, 2021 (3 months)
