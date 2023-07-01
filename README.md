@@ -7,6 +7,7 @@ My role involves developing, constructing, testing, and maintaining data archite
 
 ## 📫 Get in Touch
 - Email at **jean.gd@outlook.fr**
+- Discord at **jean_gd**
 
 ## 🧰 Skills
 ### Programming Languages
