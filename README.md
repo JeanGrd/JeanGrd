@@ -3,7 +3,7 @@
 
 Currently, I hold the position of **Data Engineer** at _Thales Alenia Space_, specializing in transforming raw data into meaningful information through methods of data analysis and management. 
 
-My role involves developing, constructing, testing, and maintaining data architectures, 
+My role involves developing, constructing, testing, and maintaining data architectures.
 
 ## 📫 Get in Touch
 - Email at **jean.gd@outlook.fr**
