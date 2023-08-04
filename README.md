@@ -24,7 +24,7 @@ My role involves developing, constructing, testing, and maintaining data archite
 - Django
 
 ## 🎓 Education
-- Master's Degree in Computer Science Applied to Business Management (Data Engineering and Cybersecurity), Paul Sabatier University, Toulouse III _(ongoing)_
+- Master of Engineering Degree in Computer Science Applied to Business Management - Data Engineering and Cybersecurity, Paul Sabatier University, Toulouse III _(ongoing)_
 - Bachelor's Degree in Mathematics and Computer Science Applied to Business Management, Paul Sabatier University, Toulouse III
 - First Year, Data Engineering Program, Telecom Saint-Etienne
 - University Technology Diploma in Computer Science, Paul Sabatier University (University Institutes of Technology), Toulouse III
