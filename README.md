@@ -13,9 +13,8 @@ My role involves developing, constructing, testing, and maintaining data archite
 ### Programming Languages
 - Python
 - Java
-- C++
-- JavaScript
-- TypeScript
+- C / C++
+- JavaScript (TypeScript)
 - PHP
 
 ### Frameworks
