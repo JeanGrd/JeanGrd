@@ -1,33 +1,19 @@
 
 # 👋 Hello, I'm Jean Guiraud 
 
-Currently, I hold the position of **Data Engineer** at _Thales Alenia Space_, specializing in transforming raw data into meaningful information through methods of data analysis and management. 
-
-My role involves developing, constructing, testing, and maintaining data architectures.
+Currently, I hold the position of **Pre-Trade DevOps Engineer** at _Société Générale CIB_.
 
 ## 📫 Get in Touch
 - Email at **jean.gd@outlook.fr**
 - Discord at **jean_gd**
 
-## 🧰 Skills
-### Programming Languages
-- Python
-- Java
-- C / C++
-- JavaScript (TypeScript)
-- PHP
-
-### Frameworks
-- Angular
-- Flask
-- Django
-
 ## 🎓 Education
-- Master Degree in Computer Science Applied to Business Management - Data Engineering and Cybersecurity, Paul Sabatier University, Toulouse III _(ongoing)_
+- Master Degree in Computer Science Applied to Business Management - Data Engineering and Cybersecurity, Paul Sabatier University, Toulouse III _(validated)_
 - Bachelor's Degree in Mathematics and Computer Science Applied to Business Management, Paul Sabatier University, Toulouse III (validated)
 - First year, Data Engineering program, Telecom Saint-Etienne (validated)
 - University Technology Diploma in Computer Science, Paul Sabatier University (University Institutes of Technology), Toulouse III (validated)
 
 ## 💼 Work Experience
-- Data Engineer, Thales Alenia Space, 2021 - Present
+- Pre-Trade DevOps Engineer, Société Générale CIB, 2025 - Present
+- Data Engineer, Thales Alenia Space, 2021 - 2025 (4 years)
 - Software engineer Intern, Tridôme, 2021 (3 months)
